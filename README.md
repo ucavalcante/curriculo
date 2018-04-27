@@ -7,30 +7,31 @@
 **Github**  [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")  
 
 ## Conhecimentos/Cursos
-*   dotnet core/framework e apsnet core
-*   Linguagens C# Java ASL
-*	Altitude Developer.
+*   dotnet core/framework, apsnet core, EF core
+*   Linguagens C# Java ASL(Altitude Developer)
 *   Sistemas de controle de versão (git, vsts)
 *   Sistema de container Docker
+*   SQL e Oracle
+*   Report Server
 
 ## Projetos
 ### Open Source
 
 * **altitude-script-language** (regex) ([link](https://marketplace.visualstudio.com/items?itemName=ucavalcante.altitude-script-language "vscode"))
-
-   Extensão para suporte da linguagem altitude script language para visual studio code 
+  Extensão para suporte da linguagem altitude script language para visual studio code 
 
 ## Experiência profissional 
 
 04/14 - Atual      Analista de Sistema Pleno                 Lojas Marisa varejista S.A.
 *	Linguagens de programação DotNet/C# Intermediário, Java básico
-*	Desenvolvimento de Aplicações Desktop para dar suporte ao Call Center.
+*	Desenvolvimento de Aplicações Desktop e serviços windows para dar suporte ao Call Center.
 *	Desenvolvimento de Aplicações Web para o sistema cartão.
 *	Web services, Restfull, Json.
 *	MS Report Server.
 *	SQL/Oracle
 *	ASP.NET core 
 *	Levantamento de Requisitos com os usuários.
+*   Abertura de GMUDs e confeção de documentação tecnica para implantaçao.
 
 03/12-03/14	Analista de Suporte e Telecom PL 	Lojas Marisa varejista S.A.
 *	Administração do Sistema Altitude (Telefonia do Call Center.).
