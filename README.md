@@ -6,7 +6,7 @@
 **Twitter** [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
 **Github**  [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")  
 
-## Conhecimentos/Cursos
+## Conhecimentos
 *   dotnet core/framework, apsnet core, EF core
 *   Linguagens C# Java ASL(Altitude Developer)
 *   Sistemas de controle de versão (git, vsts)
@@ -17,7 +17,7 @@
 ## Projetos
 ### Open Source
 
-* **altitude-script-language** (regex) ([link](https://marketplace.visualstudio.com/items?itemName=ucavalcante.altitude-script-language "vscode"))
+* **altitude-script-language** (regex) ([link](https://marketplace.visualstudio.com/items?itemName=ucavalcante.altitude-script-language "vscode"))  
   Extensão para suporte da linguagem altitude script language para visual studio code 
 
 ## Experiência profissional 
