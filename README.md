@@ -1,20 +1,20 @@
 # Ulisses Cavalcante
 
-**Local** Barueri - SP  
-**skype** [ucavalcante](skype:ucavalcante?chat "pessoal")  
-**E-mail** ucavalcante.ulisses@gmail.com  
+**Local**   Barueri - SP  
+**skype**   [ucavalcante](skype:ucavalcante?chat "pessoal")  
+**E-mail**  ucavalcante.ulisses@gmail.com  
 **twitter** [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
-**github** [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")  
+**github**  [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")  
 
-## Escolaridade 
-
-*   2008 Gestão em Sistema de Informação (Graduação	Unip)
-*   2010 Master in Project Management (Pós-Graduação Uninove)
-*   2013 Formação Visual Studio C# (Ka Solutions)
+## Conhecimentos/Cursos
+*   dotnet core/framework e apsnet core
+*   Linguagens C# Java ASL
+*	Altitude Developer.
+*   Sistemas de controle de versão (git, vsts)
+*   Sistema de container Docker
 
 ## Projetos
-
-### Open Sources
+### Open Source
 
 * **altitude-script-language** (regex) ([link](https://marketplace.visualstudio.com/items?itemName=ucavalcante.altitude-script-language "vscode"))
 
@@ -55,11 +55,10 @@
 *	Confecção e gestão de redes Windows e Linux.
 *	Treinamento de usuários e integração de sistemas operacionais.
  
-## Conhecimentos Gerais/Cursos
-*	Altitude uSupervisor Administrador certificado pela Altitude.
-*	Formação Ka Solutions Módulos 10262; 10263; 10265; 10266.
-*   Sistemas de controle de versão (git, vsts)
-*   Sistema de container Docker
- 
+## Formação 
+*   2008 Gestão em Sistema de Informação (Graduação	Unip)
+*   2010 Master in Project Management (Pós-Graduação Uninove)
+*   2013 Formação Visual Studio C# Módulos 10262; 10263; 10265; 10266 (Ka Solutions)
+
 ## Idiomas: 
 *	Inglês Técnico Avançado.
