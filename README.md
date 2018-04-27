@@ -1,4 +1,4 @@
-#Ulisses Cavalcante
+# Ulisses Cavalcante
 
 
 **Endereço** Rua Caracas nº. 148 casas 08 – Vale do Sol - Barueri - SP
@@ -6,14 +6,14 @@
 **Telefones para Recado** (11) 98338-7957 Patricia 
 **E-mail** ucavalcante.ulisses@gmail.com 
 
-##Escolaridade 
+## Escolaridade 
 Período                     Curso							Instituição 
 2008 / Concluído        Gestão em Sistema de Informação (Graduação) 	Unip, SP. 
 2010 / Concluído        Master in Project Management (Pós-Graduação) 	Uninove, SP. 
 2013 / Concluído        Formação Visual Studio C# Desktop		Ka Solutions, SP. 
 
 
-##Experiência profissional 
+## Experiência profissional 
 
 Período                       Cargo                                        Empresa                 
 04/14 - Atual      Analista de Sistema Pleno                 Lojas Marisa varejista S.A.
@@ -74,12 +74,12 @@ Descrição:
 *	Treinamento de usuários e integração de sistemas operacionais.
  
  
-##Conhecimentos Gerais/Cursos
+## Conhecimentos Gerais/Cursos
 Informática: 
 *	Altitude uSupervisor Administrador certificado pela Altitude.
 *	Formação Ka Solutions Módulos 10262; 10263; 10265; 10266.
 *	Microsoft Office (Excel avançado).
 *	Instalações e configurações de programas e sistemas operacionais.
  
-##Idiomas: 
+## Idiomas: 
 *	Inglês Técnico Avançado.
