@@ -6,6 +6,9 @@
 **Telefones para Recado** (11) 98338-7957 Patricia 
 **E-mail** ucavalcante.ulisses@gmail.com 
 
+twitter: [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
+github: [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")
+
 ## Escolaridade 
 Período                     Curso							Instituição 
 2008 / Concluído        Gestão em Sistema de Informação (Graduação) 	Unip, SP. 
