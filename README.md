@@ -3,18 +3,7 @@
 **Local** Barueri - SP
 **E-mail** ucavalcante.ulisses@gmail.com 
 
-<script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
-<div id="SkypeButton_Call_ucavalcante_1">
- <script type="text/javascript">
- Skype.ui({
- "name": "chat",
- "element": "SkypeButton_Call_ucavalcante_1",
- "participants": ["ucavalcante"],
- "imageColor": "white",
- "imageSize": 14
- });
- </script>
-</div>
+skype: [ucavalcante](skype:ucavalcante?chat "pessoal")  
 twitter: [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
 github: [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")
 
