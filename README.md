@@ -1,10 +1,10 @@
 # Ulisses Cavalcante
 
 **Local**   Barueri - SP  
-**skype**   [ucavalcante](skype:ucavalcante?chat "pessoal")  
+**Skype**   [ucavalcante](skype:ucavalcante?chat "pessoal")  
 **E-mail**  ucavalcante.ulisses@gmail.com  
-**twitter** [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
-**github**  [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")  
+**Twitter** [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
+**Github**  [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")  
 
 ## Conhecimentos/Cursos
 *   dotnet core/framework e apsnet core
