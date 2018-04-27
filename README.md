@@ -1,11 +1,10 @@
 # Ulisses Cavalcante
 
-**Local** Barueri - SP
+**Local** Barueri - SP  
 **E-mail** ucavalcante.ulisses@gmail.com 
-
-skype: [ucavalcante](skype:********?call "pessoal")  
-twitter: [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
-github: [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")
+**skype** [ucavalcante](skype:ucavalcante?chat "pessoal")  
+**twitter** [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
+**github** [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")
 
 
 ## Escolaridade 
