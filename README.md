@@ -1,17 +1,17 @@
 # Ulisses Cavalcante
 
 **Local** Barueri - SP  
-**E-mail** ucavalcante.ulisses@gmail.com 
+**E-mail** ucavalcante.ulisses@gmail.com  
 **skype** [ucavalcante](skype:ucavalcante?chat "pessoal")  
 **twitter** [@u_cavalcante](http://twitter.com/u_cavalcante "pessoal")  
-**github** [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")
+**github** [https://github.com/ucavalcante](https://github.com/ucavalcante "pessoal")  
 
 
 ## Escolaridade 
-Período                     Curso							Instituição 
-2008 / Concluído        Gestão em Sistema de Informação (Graduação) 	Unip, SP. 
-2010 / Concluído        Master in Project Management (Pós-Graduação) 	Uninove, SP. 
-2013 / Concluído        Formação Visual Studio C# Desktop		Ka Solutions, SP. 
+
+*   2008 Gestão em Sistema de Informação (Graduação	Unip)
+*   2010 Master in Project Management (Pós-Graduação Uninove)
+*   2013 Formação Visual Studio C# (Ka Solutions)
 
 
 ## Experiência profissional 
