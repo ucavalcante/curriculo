@@ -51,7 +51,7 @@
 * Levantamento de Requisitos com os usuários.
 * Abertura de GMUDs e confeção de documentação tecnica para implantaçao.
 
-### 03/12-03/14
+### 03/12 - 03/14
 
 #### Analista de Suporte e Telecom PL - Lojas Marisa varejista
 
@@ -60,7 +60,7 @@
 * Configuração de Aparelhos VoIP
 * Conhecimento de DG, Jumpers de Ramais.
 
-### 03/11-02/12
+### 03/11 - 02/12
 
 #### Analista de Service Desk. - Lojas Marisa varejista
 
