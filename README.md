@@ -7,10 +7,10 @@
 
 ## Conhecimentos
 
-* Frameworks: dotnet core, apsnet core, EF core, Angular
+* Frameworks: .Net, apsnet core, EF core, Angular
 * Linguagens C#, Javascript, Typescript, ASL(Altitude Developer),
 * Sistemas de controle de versão (git, vsts)
-* Sistema de container Docker
+* Containers Docker
 * SQL Server, RavenDB(NoSQL)
 * Report Server
 * Testes: xUnit
@@ -25,7 +25,7 @@
 
 ## Experiência profissional
 
-### 11/2018 - Atual
+### 11/2018 - 03/2018
 
 #### Senior Consultant - Altitude Software
 
