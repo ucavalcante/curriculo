@@ -1,92 +1,76 @@
 # Ulisses Cavalcante
 
-**Local**   Barueri - SP  
-**Skype**   [ucavalcante](skype:ucavalcante?chat "contato")  
+**Place**    Brazil - São Paulo - Barueri  
+**Skype**   [ucavalcante](skype:ucavalcante?chat "contact")  
 **E-mail**  ucavalcante.ulisses@gmail.com  
-**Github**  [https://github.com/ucavalcante](https://github.com/ucavalcante "contato")  
+**Github**  [https://github.com/ucavalcante](https://github.com/ucavalcante "contact")  
 
-## Conhecimentos
+## Skills
 
 * Frameworks: .Net, apsnet core, EF core, Angular
-* Linguagens C#, Javascript, Typescript, ASL(Altitude Developer),
-* Sistemas de controle de versão (git, vsts)
-* Containers Docker
-* SQL Server, RavenDB(NoSQL)
-* Report Server
-* Testes: xUnit
+* Program Languages C#, Javascript, Typescript, ASL(Altitude Developer),
+* Version control systems: git, vsts
+* Docker containers
+* Databases: SQL Server, RavenDB(NoSQL), MongoDB(NoSQL)
+* Report Server fro SQL Server
+* Unit Test Framwork: xUnit
 * Azure Devops(CI/CD)
 
-## Projetos Open Source
+## Open Source Projects Maintainer
 
-* **altitude-script-language** ([link](https://marketplace.visualstudio.com/items?itemName=ucavalcante.altitude-script-language "vscode"))  
-  Extensão para suporte da linguagem altitude script language para visual studio code
-* **NetCoreEasyLog** ([link](https://www.nuget.org/packages/NetCoreEasyLog/ "vscode"))  
-  Biblioteca de logs para dotnet core.
+* **altitude-script-language** ([link](https://marketplace.visualstudio.com/items?itemName=ucavalcante.altitude-script-language "ASL"))  
+  visual studio code extension to suport Altitude script language.
+* **NetCoreEasyLog** ([link](https://www.nuget.org/packages/NetCoreEasyLog/ "NCEL"))  
+  log library for dotnet core easyness focused 
 
-## Experiência profissional
+## Experience
 
-### 11/2018 - 03/2018
+### NOV 2018 - FEB 2020
 
 #### Senior Consultant - Altitude Software
 
-* Desenvolvimento de soluções para Call Centers
-* integração de sistemas
-* desenvolvimento de frontend de atendimento
-* construção de relatorios de produtividade
-* implantação de produtos
-* desenvolvimento de soluções customizadas para adequação ao negócio do cliente
-* identificação de oportunidades de negocios visando melhorias de processo e aumento de produtividade.
+* Software solutions for Call centers
+* System integrations
+* Frontend development for attendance
+* Backoffice aplications for management
+* Building Productivity reports
+* Products deployments
+* custom solutions to fit with custumer business
 
-### 04/14 - 10/18
+### APR 2014 - Oct 2018
 
-#### Analista de Sistema Pleno - Lojas Marisa varejista
+#### Systems Analyst - Lojas Marisa varejista
 
-* Linguagens de programação DotNet/C# Intermediário, Java básico
-* Desenvolvimento de Aplicações Desktop e serviços windows para dar suporte ao Call Center.
-* Desenvolvimento de Aplicações Web para o sistema cartão.
+* Developing Desktop applications and windows services for Call center suport
+* Developing Web applications for private label credcard.
 * Web services, Restfull, Json.
 * MS Report Server.
-* SQL/Oracle
+* SQL Server, Oracle
 * ASP.NET core
-* Levantamento de Requisitos com os usuários.
-* Abertura de GMUDs e confeção de documentação tecnica para implantaçao.
+* requirements gathering with users using UML use cases.
+* Technial documents
 
-### 03/12 - 03/14
+### MAR 2012 - MAR 2014
 
-#### Analista de Suporte e Telecom PL - Lojas Marisa varejista
+#### Telecom and Suport Analyst - Lojas Marisa varejista
 
-* Administração do Sistema Altitude (Telefonia do Call Center.).
-* Suporte a infraestrutura de TI e Telecom.
-* Configuração de Aparelhos VoIP
-* Conhecimento de DG, Jumpers de Ramais.
+* Sistem Administration for Altitude Management Software
+* Contact field for Servers and Infrastructure maintenance.
+* VoIP equipment configuration
 
-### 03/11 - 02/12
+### MAR 2011 - FEB 2012
 
-#### Analista de Service Desk. - Lojas Marisa varejista
+#### Service Desk - Lojas Marisa varejista
 
-* Suporte Técnico às lojas de varejo auxiliando a lojas a realizar a manutenção do hardware, e conectando remotamente aos equipamentos para configuração e instalação de softwares, bem como direcionamento dos chamados para técnicos de campo.
-* Operação e Manutenção de sistemas de frente de loja Linux no padrão cliente servidor identificação e análise das causas.
+* Technical Support to retail stores assisting stores to perform hardware maintenance, and connecting remotely to equipment for configuration and installation of software, as well as targeting calls to field technicians.
+* Operation and Maintenance of linux frontend systems in the client server identification and analysis of causes.
 
-### 11/07 - 02/11
+## Education
 
-#### Assistente de Qualidade - CREDI 21 PARTICIPAÇÕES
-
-* Monitoria de qualidade nos contatos realizados com clientes e elaboração de análise de avaliação de desempenho.
-* Planejamento e coordenação das ações de melhoria e aplicação de feedback para as células de atendimento.
-
-### 08/06 - 09/07
-
-#### Supervisor Trainee SAC - TMS Call Center
-
-* Gestão de equipes de atendimento a clientes corporativos.
-* Avaliação de conformidade e frequência de desempenho das atividades.
-
-## Formação
-
-* 2008 Gestão em Sistema de Informação (Graduação Unip)
+* 2008 Management Information Systems (Graduação Unip)
 * 2010 Master in Project Management (Pós-Graduação Uninove)
-* 2013 Formação Visual Studio C# Módulos 10262; 10263; 10265; 10266 (Ka Solutions)
+* 2013 Visual Studio C# Language (Ka Solutions)
 
-## Idiomas
+## Language
 
-* Inglês Técnico Avançado.
+* English and Portuguese;
