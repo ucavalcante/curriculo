@@ -12,7 +12,7 @@
 * Version control systems: git, vsts
 * Docker containers
 * Databases: SQL Server, RavenDB(NoSQL), MongoDB(NoSQL)
-* Report Server fro SQL Server
+* Report Server from SQL Server
 * Unit Test Framwork: xUnit
 * Azure Devops(CI/CD)
 
@@ -21,7 +21,7 @@
 * **altitude-script-language** ([link](https://marketplace.visualstudio.com/items?itemName=ucavalcante.altitude-script-language "ASL"))  
   visual studio code extension to suport Altitude script language.
 * **NetCoreEasyLog** ([link](https://www.nuget.org/packages/NetCoreEasyLog/ "NCEL"))  
-  log library for dotnet core easyness focused 
+  log library for dotnet core for easy of use 
 
 ## Experience
 
@@ -35,24 +35,24 @@
 * Backoffice aplications for management
 * Building Productivity reports
 * Products deployments
-* custom solutions to fit with custumer business
+* custom solutions to fit with customer business
 
 ### APR 2014 - Oct 2018
 
 #### Systems Analyst - Lojas Marisa varejista
 
-* Developing Desktop applications and windows services for Call center suport
-* Developing Web applications for private label credcard.
-* Web services, Restfull, Json.
+* Developing desktop applications and windows services for call center support.
+* Developing web applications for store card(private label credit card).
+* Web services, Restfull, JSON.
 * MS Report Server.
 * SQL Server, Oracle
 * ASP.NET core
 * requirements gathering with users using UML use cases.
-* Technial documents
+* Technical documents
 
 ### MAR 2012 - MAR 2014
 
-#### Telecom and Suport Analyst - Lojas Marisa varejista
+#### Telecom and Support Analyst - Lojas Marisa varejista
 
 * Sistem Administration for Altitude Management Software
 * Contact field for Servers and Infrastructure maintenance.
@@ -63,7 +63,7 @@
 #### Service Desk - Lojas Marisa varejista
 
 * Technical Support to retail stores assisting stores to perform hardware maintenance, and connecting remotely to equipment for configuration and installation of software, as well as targeting calls to field technicians.
-* Operation and Maintenance of linux frontend systems in the client server identification and analysis of causes.
+* Operation and Maintenance of Linux frontend systems in the client server identification and analysis of causes.
 
 ## Education
 
